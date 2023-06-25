@@ -12,6 +12,8 @@ To use the terminal, simply include the JavaScript code in your HTML file. The c
 
 # Usage
 
+![Untitled-fotor-2023062634553](https://github.com/Thakor-Yashpal/terminal-style-portfolio-page/assets/75574310/bff1019e-93d9-41bc-99a9-fbafd1de418f)
+
 The terminal provides the following features:
 
 <li><b>Command Execution: </b>Type commands in the input field and press Enter to execute them.</li>
