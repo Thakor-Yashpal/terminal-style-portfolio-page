@@ -26,7 +26,7 @@ The terminal provides the following features:
 
 <ol><b> About me:</b> Provides information about the developer.</ol>
 <ol><b>all:</b> Displays all available commands.</ol>
-<ol><b>social -a:</b> Shows all social network profiles of the developer.</ol>
+<ol><b>social -a:</b> Shows all social network pro...files of the developer.</ol>
 <ol><b>projects:</b> Displays the developer's GitHub page with their projects.</ol>
 <ol><b>clear:</b> Clears the terminal screen.<ol>
 
