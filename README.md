@@ -1,4 +1,4 @@
-# terminal-style-portfolio
+   # terminal-style-portfolio
 
 This is an interactive terminal implemented using JavaScript. It allows you to run commands and displays corresponding outputs in a terminal-like interface.
 
